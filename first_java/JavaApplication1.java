@@ -15,12 +15,9 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-       int myNum = 5;
-       float myFloatNum = 5.99f;
-       char myLetter = 'D';
-       boolean myBool = true;
-       String myText = "Hello";
+        String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        System.out.println("The length of the txt string is: " + txt.length());
+    
 
 
         
